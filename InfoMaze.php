@@ -26,7 +26,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
 	 crossorigin="anonymous">
 
-	<title>Cyber-Kavach</title>
+	<title>Cyber-Games Info Maze</title>
 	<link rel="icon" href="https://i.ibb.co/k80kB58/logo.png" type="image/icon type">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap" rel="stylesheet">
 	<style>
@@ -230,9 +230,9 @@
                 </div>
             </div>
         </div>
-        <div class="footer-copyright text-center py-3" style="background-color:#8c7a00; color: white">©
-            2020-21<br>
-            <a>Cyber Kavach Organisation</a>
+        <div class="footer-copyright text-center py-3" style="background-color:#8c7a00; color: white">
+            2020<br>
+            <a>Cyber Kavach</a>
         </div>
     </footer> 
     </body>
